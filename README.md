@@ -39,7 +39,7 @@ I enjoy exploring emerging technologies, developing intelligent systems and buil
   <a href="https://instagram.com/_rahhul_2_1">
     <img src="https://img.shields.io/badge/Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=000000" />
   </a>
-  <a href="https://linkedin.com/in/rahul">
+  <a href="https://www.linkedin.com/in/rahul-rathod-1b925231a">
     <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000" />
   </a>
   <a href="mailto:rr2632909@gmail.com">
